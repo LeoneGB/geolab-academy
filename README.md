@@ -3,6 +3,12 @@
 > ⚠️ **Este projeto está em desenvolvimento**  
 > Novas imagens de telas (desktop e mobile) ainda serão postadas aqui. Também será disponibilizado o link do site quando já estiver na internet.
 
+O código-fonte deste projeto não está disponível publicamente no momento, pois faz parte de um desenvolvimento proprietário.
+
+Esta decisão foi tomada para preservar a estrutura, a lógica e os diferenciais da plataforma.
+
+No entanto, a apresentação visual e conceitual do projeto está disponível neste repositório.
+
 ## 📖 Sobre o Projeto
 
 A **GeoLab Academy** nasceu com o propósito de tornar o aprendizado em geotecnologias mais acessível, prático e eficiente, não apenas para alunos de Engenharia Cartográfica, mas para todos os profissionais, estudantes e aspirantes que utilizam geoequipamentos em suas atividades.
