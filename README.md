@@ -29,12 +29,12 @@ Aqui estão algumas prévias da versão para desktop:
 
 <p align="center">
   <img src="image1.JPG" width="700"/>
-  <img src="image2.jpg" width="700"/>
-  <img src="image3.jpg" width="700"/>
-  <img src="image4.jpg" width="700"/>
-  <img src="image5.jpg" width="700"/>
-  <img src="image6.jpg" width="700"/>
-  <img src="image7.jpg" width="700"/>
+  <img src="image2.JPG" width="700"/>
+  <img src="image3.JPG" width="700"/>
+  <img src="image4.JPG" width="700"/>
+  <img src="image5.JPG" width="700"/>
+  <img src="image6.JPG" width="700"/>
+  <img src="image7.JPG" width="700"/>
 </p>
 
 ---
